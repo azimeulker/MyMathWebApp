@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a simple web application developed as part of Assignment 4 for the course. The application allows users to perform calculations such as finding the maximum, average, and standard deviation of a list of numbers.
+This is a simple web application that allows users to perform calculations such as finding the maximum, average, and standard deviation of a list of numbers.
 
 ## Features
 
